@@ -17,7 +17,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import util.TimeUtils;
 
-public class FrmMain extends javax.swing.JFrame {
+public class  FrmMain extends javax.swing.JFrame {
 
     ProjectController projectController;
     TaskController taskController;
